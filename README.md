@@ -7,7 +7,7 @@ Daniella M. Rempe<sup>1</sup>, Erica L. McCormick<sup>1</sup>, W. Jesse Hahm, Ge
 
 Last updated May 11, 2022 by Erica McCormick
 
-A preprint is available <a href = "https://www.researchsquare.com/article/rs-138459/v1"> here </a>.
+A preprint is available <a href = "https://www.researchsquare.com/article/rs-138459/v1"> on EarthArXiv </a>.
 
 <a href="https://zenodo.org/badge/latestdoi/357586333"><img src="https://zenodo.org/badge/357586333.svg" alt="DOI"></a>
 
