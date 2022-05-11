@@ -1,7 +1,9 @@
 # Code for: "Resilience of woody ecosystems to precipitation variability" (Submitted: PNAS, May 2022)
 
-Daniella M. Rempe<sup>*</sup>, Erica L. McCormick<sup>*</sup>, W. Jesse Hahm, Geeta Persada, Cameron Cummins, Dana A. Lapides, K. Dana Chadwick, and David N. Dralle
-<sup>*</sup> co-first authors
+Daniella M. Rempe<sup>1</sup>, Erica L. McCormick<sup>1</sup>, W. Jesse Hahm, Geeta Persada, Cameron Cummins, Dana A. Lapides, K. Dana Chadwick, and David N. Dralle
+
+
+<sup>1</sup> co-first authors
 
 Last updated May 11, 2022 by Erica McCormick
 
