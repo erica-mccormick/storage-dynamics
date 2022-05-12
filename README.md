@@ -20,7 +20,7 @@ A preprint is available <a href = "https://www.researchsquare.com/article/rs-138
 
 The code necessary to reproduce all of the figures and products is available in storage_dynamics.ipynb.
 
-To reproduce the data used in Fig 3 (Shifts in root-zone water storage (RWS) limitation for precipitation projections 2060-2100), see XXXX. 
+To reproduce the data used in Fig 3 (Shifts in root-zone water storage (RWS) limitation for precipitation projections 2060-2100), see the file "future_precipitation.py". Input files necessary to run this code are available in the Hydroshare repository in the folder "future_percentile_data_and_code." 
 
 The bulk of the analyses are performed in Google Earth Engine in the <a href = "https://colab.research.google.com/">Google Colab </a><a href = "https://developers.google.com/earth-engine/guides/python_install">Python API </a>environment. This service requires users to <a href = "https://earthengine.google.com/new_signup/">sign-up </a>prior to use.
 
