@@ -7,13 +7,7 @@ Daniella M. Rempe<sup>1</sup>, Erica L. McCormick<sup>1</sup>, W. Jesse Hahm, Ge
 
 Last updated May 11, 2022 by Erica McCormick
 
-A preprint is available <a href = "https://www.researchsquare.com/article/rs-138459/v1"> on EarthArXiv </a>.
-
-<a href="https://zenodo.org/badge/latestdoi/357586333"><img src="https://zenodo.org/badge/357586333.svg" alt="DOI"></a>
-
-
-### Please cite associated pre-print as:
-<blockquote> McCormick, E., Dralle, D., Hahm, W., Tune, A., Schmidt, L., Chadwick, K. D., & Rempe, D. Evidence for widespread woody plant use of water stored in bedrock. Accepted: Nature. (2021) http://doi.org/10.1038/s41586-021-03761-3.</blockquote>
+A preprint is available <a href = ""> on EarthArXiv </a>. (coming soon)
 
 
 ## **CODE AVAILABILITY**
@@ -28,7 +22,7 @@ Links to the relevant GEE assets, including those which were created for this pr
 
 ## **DATA AVAILABILITY**
 
-See the <a href = "https://doi.org/10.4211/hs.a2f0d5fd10f14cd189a3465f72cba6f3"> Hydroshare repository </a> for data products used and produced during this project.
+See the <a href = "https://www.hydroshare.org/resource/65b4acd080a244ef94de57c6f4e5f7d2/"> Hydroshare repository </a> for data products used and produced during this project.
 
 
 
